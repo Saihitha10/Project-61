@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    padding-top: 600px;
+    text-align: center;
+}
+
+
+#name {
+    font-family:  MonteCarlo;
+    padding-top: 2px;
+    font-size: 44px;
+    font-weight: bolder;
+     color: #880E4F;
+}
+
+
+#img-p {
+    border-radius: 150px;
+    border: 2px solid #00695C;
+    padding: 5px;
+    width: 210px;á
+    height: 260px;
+    margin-top: 120px;
+}
+
+
+#Home {
+    background: linear-gradient( #F8BBD0 0%, #A5D6A7 100% );
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+.menu {
+   position: fixed;
+    background: #ece4db;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index:10;
+}
+
+.link {
+  display: inline;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 700;
+  text-shadow: 2px 2px #b7b7a4;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    
+  text-decoration: none;  
+  color: #004D40;   
+}
+
+
+h1 {
+      color: #880E4F;
+    font-family: Raleway;
+    font-size: 25px;
+}
+
+#character {
+    margin-top: 50px;
+}
+
+
+.s {
+    color: black;
+    text-decoration-line: underline;
+}
+
+
+#an {
+    font-size: 30px;
+}
+
+#g {
+    font-size:c  100px;
+}
+
+#h {
+    text-decoration: underline;
+}
+
+.this :hover {
+    transform: scale(0.9);
+}
+
+#m {
+    border: 25px black solid;
+    border-radius: 20px;
+}
+
+#n {
+    border: 25px black solid;
+    border-radius: 20px;
+    width: 220px;
+    height: 250px;
+}
+
+
+.contact_1 {
+    background-color: crimson;
+    height: 70%;
+}
+
+.contact_1 h3 {
+    color: #248277;
+    font-size: 20px;
+    text-shadow: 2px 2px white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
